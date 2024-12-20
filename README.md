@@ -1,3 +1,4 @@
+![](bar.svg)
 
 # Data Engineering Pipelines with Pandas on Snowflake
 
